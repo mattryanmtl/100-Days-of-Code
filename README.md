@@ -20,3 +20,4 @@
 * [Day 14: HTML Markup Generator](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayFourteen.java "Day 14: HTML Markup Generator")
 * [Day 15: Pascal's Triangle](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayFifteen.py "Day 15: Pascal's Triangle")
 * [Day 16: Pascal's Pyramid](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DaySixteen.py "Day 16: Pascal's Pyramid")
+* [Day 17: d20 Dice Roller](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/C%23/DaySeventeen.cs "Day 17: d20 Dice Roller")
