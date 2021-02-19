@@ -23,3 +23,4 @@
 * [Day 17: d20 Dice Roller](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/C%23/DaySeventeen.cs "Day 17: d20 Dice Roller")
 * [Day 18: Base64](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayEighteen.js "Day 18: Base64")
 * [Day 19: Vigenère cipher](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayNineteen.py "Day 19: Vigenère cipher")
+* [Day 20: Seven-segment display](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayTwenty.java "Day 20: Seven-segment display")
