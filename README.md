@@ -24,3 +24,4 @@
 * [Day 18: Base64](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayEighteen.js "Day 18: Base64")
 * [Day 19: Vigenère cipher](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayNineteen.py "Day 19: Vigenère cipher")
 * [Day 20: Seven-segment display](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayTwenty.java "Day 20: Seven-segment display")
+* [Day 21: Insertion Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/PHP/DayTwentyone.php "Day 21: Insertion Sort")
