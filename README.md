@@ -27,4 +27,5 @@
 * [Day 21: Insertion Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/PHP/DayTwentyone.php "Day 21: Insertion Sort")
 * [Day 22: Binary-Decimal](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayTwentytwo.py "Day 22: Binary-Decimal")
 * [Day 23: Ducci sequence](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayTwentythree.py "Day 23: Ducci sequence")
-* [Day 24: Shell Sort ](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/PHP/DayTwentyfour.php "Day 24: Shell Sort ")
+* [Day 24: Shell Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/PHP/DayTwentyfour.php "Day 24: Shell Sort")
+* [Day 25: Calculator](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayTwentyfive.py "Day 25: Calculator")
