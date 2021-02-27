@@ -30,3 +30,4 @@
 * [Day 24: Shell Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/PHP/DayTwentyfour.php "Day 24: Shell Sort")
 * [Day 25: Calculator](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayTwentyfive.py "Day 25: Calculator")
 * [Day 26: Merge Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayTwentysix.java "Day 26: Merge Sort")
+* [Day 27: Bucket Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayTwentyseven.java "Day 27: Bucket Sort")
