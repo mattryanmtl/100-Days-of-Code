@@ -31,3 +31,4 @@
 * [Day 25: Calculator](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayTwentyfive.py "Day 25: Calculator")
 * [Day 26: Merge Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayTwentysix.java "Day 26: Merge Sort")
 * [Day 27: Bucket Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayTwentyseven.java "Day 27: Bucket Sort")
+* [Day 28: Counting Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/PHP/DayTwentyeight.php "Day 28: Counting Sort")
