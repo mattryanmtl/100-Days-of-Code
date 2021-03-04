@@ -34,3 +34,4 @@
 * [Day 28: Counting Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/PHP/DayTwentyeight.php "Day 28: Counting Sort")
 * [Day 29: Heap Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/C%23/DayTwentynine.cs "Day 29: Heap Sort")
 * [Day 30: Quick Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayThirty.java "Day 30: Quick Sort")
+* [Day 31: Radix Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyone.js "Day 31: Radix Sort")
