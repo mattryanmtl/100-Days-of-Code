@@ -37,3 +37,4 @@
 * [Day 31: Radix Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyone.js "Day 31: Radix Sort")
 * [Day 32: Shaker Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayThirtyTwo.java "Day 32: Shaker Sort")
 * [Day 33: Stooge Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtythree.js "Day 33: Stooge Sort")
+* [Day 34: Consuming a RESTful API with React](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyfour.js "Day 34: Consuming a RESTful API with React")
