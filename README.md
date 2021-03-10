@@ -39,3 +39,4 @@
 * [Day 33: Stooge Sort](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtythree.js "Day 33: Stooge Sort")
 * [Day 34: Consuming a RESTful API with React](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyfour.js "Day 34: Consuming a RESTful API with React")
 * [Day 35: Adding Machine](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyfive.js "Day 35: Adding Machine")
+* [Day 36: React Form Validation](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtysix.js "Day 36: React Form Validation")
