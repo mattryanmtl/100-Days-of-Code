@@ -43,3 +43,4 @@
 * [Day 37: Time Format Converter](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyseven.js "Day 37: Time Format Converter")
 * [Day 38: React Stopwatch](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyeight.js "Day 38: React Stopwatch")
 * [Day 39: Blackjack Checker](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayThirtynine.py "Day 39: Blackjack Checker")
+* [Day 40: Password Guessing Game](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayForty.java "Day 40: Password Guessing Game")
