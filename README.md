@@ -4,6 +4,8 @@
 
 ### 100 Days of Code Challenge ###
 
+Repo for my 100 Days of Code Challenge [series](https://dev.to/mattryanmtl/series/11086) on Dev.
+
 * [Day 1: Two Sum](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayOne.js "Day 1: Two Sum")
 * [Day 2: Check Prime](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayTwo.py "Day 2: Check Prime")
 * [Day 3: Hex Colour](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayThree.java "Day 3: Hex Colour")
@@ -44,3 +46,4 @@
 * [Day 38: React Stopwatch](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayThirtyeight.js "Day 38: React Stopwatch")
 * [Day 39: Blackjack Checker](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayThirtynine.py "Day 39: Blackjack Checker")
 * [Day 40: Password Guessing Game](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayForty.java "Day 40: Password Guessing Game")
+* [Day 41: String Case](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayFortyone.js "Day 41: String Case")
