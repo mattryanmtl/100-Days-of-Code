@@ -47,4 +47,5 @@ Repo for my 100 Days of Code Challenge [series](https://dev.to/mattryanmtl/serie
 * [Day 39: Blackjack Checker](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayThirtynine.py "Day 39: Blackjack Checker")
 * [Day 40: Password Guessing Game](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayForty.java "Day 40: Password Guessing Game")
 * [Day 41: String Case](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayFortyone.js "Day 41: String Case")
-* [Day 42: Tip Calculator ](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayFortytwo.py "Day 42: Tip Calculator ")
+* [Day 42: Tip Calculator](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayFortytwo.py "Day 42: Tip Calculator")
+* [Day 43: Twitter Auto-reply](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayFortythree.py "Day 43: Twitter Auto-reply")
