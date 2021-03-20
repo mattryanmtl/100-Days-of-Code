@@ -50,3 +50,4 @@ Repo for my 100 Days of Code Challenge [series](https://dev.to/mattryanmtl/serie
 * [Day 42: Tip Calculator](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayFortytwo.py "Day 42: Tip Calculator")
 * [Day 43: Twitter Auto-reply](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Python/DayFortythree.py "Day 43: Twitter Auto-reply")
 * [Day 44: React Currency Converter](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayFortyfour.js "Day 44: React Currency Converter")
+* [Day 45: Phonebook](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/C%23/DayFortyfive.cs "Day 45: Phonebook")
