@@ -52,3 +52,4 @@ Repo for my 100 Days of Code Challenge [series](https://dev.to/mattryanmtl/serie
 * [Day 44: React Currency Converter](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Javascript/DayFortyfour.js "Day 44: React Currency Converter")
 * [Day 45: Phonebook](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/C%23/DayFortyfive.cs "Day 45: Phonebook")
 * [Day 46: Sudoku Generator](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayFortysix.java "Day 46: Sudoku Generator")
+* [Day 47: Binary Search Tree](https://github.com/mattryanmtl/100-Days-of-Code/blob/main/Java/DayFortyseven.java "Day 47: Binary Search Tree")
